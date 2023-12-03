@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A29FE38-0240-4CF8-9479-B66CFA11B99C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E51D643-FB4A-4F27-8805-A71625DAA44F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ENotes/AddNotesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "addOrUpdateNotes(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E51D643-FB4A-4F27-8805-A71625DAA44F - 8c4a944a6b5df57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9E51D643-FB4A-4F27-8805-A71625DAA44F - d79c02b3c194858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2364">
+               </Location>
+               <Location
+                  uuid = "9E51D643-FB4A-4F27-8805-A71625DAA44F - 8c4a944a6b5df5bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9E51D643-FB4A-4F27-8805-A71625DAA44F - 8c4a944a6b5df59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ENotes/AddNotesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "addOrUpdateNotes(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - d79c02b3c194bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "2920">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - d79c02b3c194bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "2992">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - 7382c7cc6be406b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - d79c02b3c194b96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2992">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - 7382c7cc6be406d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - d79c02b3c194bf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "2992">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - 7382c7cc6be406f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "13D3201A-3107-4CE4-AF3E-5534B35273B7 - 7382c7cc6be406f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ENotes.AddNotesViewController.addOrUpdateNotes(Any) -&gt; ()"
+                  moduleName = "ENotes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subinkuriakose/Desktop/ENotes/ENotes/ENotes/AddNotesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
